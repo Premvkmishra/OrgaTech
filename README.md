@@ -1,6 +1,6 @@
-# my_django_project/my_django_project/README.md
 
-# My Django Project
+
+# OrgaTech
 
 This is a Django project for managing events. It allows users to create, view, and manage events through a web interface.
 
